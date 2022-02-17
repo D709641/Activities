@@ -1,0 +1,29 @@
+.name{
+	text-align: center;
+}
+.initialdetails{
+	width:100%;
+	text-align: center;
+}
+.maindetails{
+	width:100%;
+	table-layout: fixed;
+	vertical-align: top;
+}
+td{
+	vertical-align: top;
+}
+.nomargin{
+	margin: 0px;
+	padding: 0px;
+}
+hr{
+	border-width: 2px;
+	margin: 0px;
+	padding: 0px;
+	border-color: rgb(232,212,137);
+	margin-right: 30px;
+}
+h2{
+	color: rgb(75,0,0);
+}
